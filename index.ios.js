@@ -8,9 +8,8 @@ var styles = ReactNative.StyleSheet.create({
   text: {
     color: 'black',
     backgroundColor: 'white',
-    fontSize: 28,
-    textAlign: 'center',
-    margin: 75
+    fontSize: 30,
+    margin: 80
   },
   container: {
     flex: 1
